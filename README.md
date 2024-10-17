@@ -17,7 +17,7 @@
 | 10  | Nama Siswa 10       | [Belum/Menunggu/OK]| [Link Tugas 10](URL_Tugas_10)  |
 | 11  | Nama Siswa 11       | [Belum/Menunggu/OK]| [Link Tugas 11](URL_Tugas_11)  |
 | 12  | Nama Siswa 12       | [Belum/Menunggu/OK]| [Link Tugas 12](URL_Tugas_12)  |
-| 13  | Nama Siswa 13       | [Belum/Menunggu/OK]| [Link Tugas 13](URL_Tugas_13)  |
+| 13  | Axel Pratama P.M.    | [Belum/Menunggu/OK]| [Link Tugas 13](https://github.com/AxelMardiyo/app-jsonplaceholder)  |
 | 14  | Nama Siswa 14       | [Belum/Menunggu/OK]| [Link Tugas 14](URL_Tugas_14)  |
 | 15  | Nama Siswa 15       | [Belum/Menunggu/OK]| [Link Tugas 15](URL_Tugas_15)  |
 | 16  | Nama Siswa 16       | [Belum/Menunggu/OK]| [Link Tugas 16](URL_Tugas_16)  |
