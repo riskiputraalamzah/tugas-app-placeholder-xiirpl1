@@ -32,8 +32,8 @@
 | 25  | Insan nur Rifqi       | OK | [Link Tugas 25](https://github.com/sanzgeming/app-jsonplaceholder)  |
 | 26  | Nama Siswa 26       | [Belum/Menunggu/OK]| [Link Tugas 26](URL_Tugas_26)  |
 | 27  | Nama Siswa 27       | [Belum/Menunggu/OK]| [Link Tugas 27](URL_Tugas_27)  |
-| 28  | Nama Siswa 28       | [Belum/Menunggu/OK]| [Link Tugas 28](URL_Tugas_28)  |
-| 29  | Nama Siswa 29       | [Belum/Menunggu/OK]| [Link Tugas 29](URL_Tugas_29)  |
+| 28  | Nama Siawa 28       | [Belum/Menunggu/OK]| [Link Tugas 28](URL_Tugas_28)  |
+| 29  | M.FIKRI ABDILLAH       | [OK]| [Link Tugas 29](https://github.com/fikryyyyyy/app-jsonplaceholder)  |
 | 30  | Nama Siswa 30       | [Belum/Menunggu/OK]| [Link Tugas 30](URL_Tugas_30)  |
 | 31  | Nama Siswa 31       | [Belum/Menunggu/OK]| [Link Tugas 31](URL_Tugas_31)  |
 
