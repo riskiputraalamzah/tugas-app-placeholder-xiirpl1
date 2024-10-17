@@ -5,10 +5,9 @@
 
 | Absen  | Nama Siswa           | Status Pengumpulan | Link Pengumpulan                |
 | --- | -------------------- | ------------------ | ------------------------------- |
-
 | 1   | Ach. Danny K        | OK| [Link Tugas 1](https://github.com/UnsuitableFollower/fetch-jsonplaceholder-dom)    |
 | 2   | Achmad Fathoni        | OK| [Link Tugas 2](https://github.com/SkyHoldie/app-jsonplaceholder)    |
-| 3   | Nama Siswa 3        | [Belum/Menunggu/OK]| [Link Tugas 3](URL_Tugas_3)    |
+| 3   | Ach Feri A        | OK| [Link Tugas 3](https://github.com/feriyyyyyyy/app-jsoncloseholder)    |
 | 4   | Nama Siswa 4        | [Belum/Menunggu/OK]| [Link Tugas 4](URL_Tugas_4)    |
 | 5   | Nama Siswa 5        | [Belum/Menunggu/OK]| [Link Tugas 5](URL_Tugas_5)    |
 | 6   | Nama Siswa 6        | [Belum/Menunggu/OK]| [Link Tugas 6](URL_Tugas_6)    |
