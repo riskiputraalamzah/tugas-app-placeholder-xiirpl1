@@ -5,9 +5,9 @@
 
 | Absen  | Nama Siswa           | Status Pengumpulan | Link Pengumpulan                |
 | --- | -------------------- | ------------------ | ------------------------------- |
-| 1   | Nama Siswa 1        | [Belum/Menunggu/OK]| [Link Tugas 1](URL_Tugas_1)    |
-| 2   | Nama Siswa 2        | [Belum/Menunggu/OK]| [Link Tugas 2](URL_Tugas_2)    |
-| 3   | Nama Siswa 3        | [Belum/Menunggu/OK]| [Link Tugas 3](URL_Tugas_3)    |
+| 1   | Ach. Danny K        | OK| [Link Tugas 1](https://github.com/UnsuitableFollower/fetch-jsonplaceholder-dom)    |
+| 2   | Achmad Fathoni        | OK| [Link Tugas 2](https://github.com/SkyHoldie/app-jsonplaceholder)    |
+| 3   | Ach Feri A        | OK| [Link Tugas 3](https://github.com/feriyyyyyyy/app-jsoncloseholder)    |
 | 4   | Nama Siswa 4        | [Belum/Menunggu/OK]| [Link Tugas 4](URL_Tugas_4)    |
 | 5   | Nama Siswa 5        | [Belum/Menunggu/OK]| [Link Tugas 5](URL_Tugas_5)    |
 | 6   | Nama Siswa 6        | [Belum/Menunggu/OK]| [Link Tugas 6](URL_Tugas_6)    |
@@ -16,7 +16,7 @@
 | 9   | Nama Siswa 9        | [Belum/Menunggu/OK]| [Link Tugas 9](URL_Tugas_9)    |
 | 10  | Nama Siswa 10       | [Belum/Menunggu/OK]| [Link Tugas 10](URL_Tugas_10)  |
 | 11  | Nama Siswa 11       | [Belum/Menunggu/OK]| [Link Tugas 11](URL_Tugas_11)  |
-| 12  | Nama Siswa 12       | [Belum/Menunggu/OK]| [Link Tugas 12](URL_Tugas_12)  |
+| 12  | Aufa Dwiash       | [Belum/Menunggu/OK]| [Link Tugas 12](https://github.com/AufaDwiash/app-jsonplaceholder)  |
 | 13  | Axel Pratama P.M.    | OK| [Link Tugas 13](https://github.com/AxelMardiyo/app-jsonplaceholder)  |
 | 14  | Nama Siswa 14       | [Belum/Menunggu/OK]| [Link Tugas 14](URL_Tugas_14)  |
 | 15  | Nama Siswa 15       | [Belum/Menunggu/OK]| [Link Tugas 15](URL_Tugas_15)  |
@@ -30,8 +30,9 @@
 | 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
 | 24  | Nama Siswa 24       | [Belum/Menunggu/OK]| [Link Tugas 24](URL_Tugas_24)  |
 | 25  | Insan nur Rifqi       | OK | [Link Tugas 25](https://github.com/sanzgeming/app-jsonplaceholder)  |
-| 26  | Nama Siswa 26       | [Belum/Menunggu/OK]| [Link Tugas 26](URL_Tugas_26)  |
-| 27  | Kevin Radhinka N       | [Belum/Menunggu/OK]| [Link Tugas 27](https://github.com/KevinNatha/app-JsonPlaceholder)  |
+
+| 26  | Irvan Maulana I       | OK| [Link Tugas 26](https://github.com/IrvannnAseli/tugas-appJSONplaceholder)  |
+| 27  | Kevin Radhinka N       | OK| [Link Tugas 27](https://github.com/KevinNatha/app-JsonPlaceholder)  |
 | 28  | Nama Siswa 28       | [Belum/Menunggu/OK]| [Link Tugas 28](URL_Tugas_28)  |
 | 29  | Nama Siswa 29       | [Belum/Menunggu/OK]| [Link Tugas 29](URL_Tugas_29)  |
 | 30  | Nama Siswa 30       | [Belum/Menunggu/OK]| [Link Tugas 30](URL_Tugas_30)  |
