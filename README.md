@@ -13,7 +13,7 @@
 | 5   | Zidan Rafli        | [OK]| [Link Tugas 5](https://github.com/zidan05172/tugas-app-placeholder-xiirpl1)    |
 | 6   | Nama Siswa 6        | [Belum/Menunggu/OK]| [Link Tugas 6](URL_Tugas_6)    |
 | 7   | Nama Siswa 7        | [Belum/Menunggu/OK]| [Link Tugas 7](URL_Tugas_7)    |
-| 8   | Nama Siswa 8        | [Belum/Menunggu/OK]| [Link Tugas 8](URL_Tugas_8)    |
+| 8   | Alif Hidayat        | [Belum/Menunggu/OK]| [Link Tugas 8](https://github.com/VANDayatt/user_Data)    |
 | 9   | Nama Siswa 9        | [Belum/Menunggu/OK]| [Link Tugas 9](URL_Tugas_9)    |
 | 10  | Nama Siswa 10       | [Belum/Menunggu/OK]| [Link Tugas 10](URL_Tugas_10)  |
 | 11  | Nama Siswa 11       | [Belum/Menunggu/OK]| [Link Tugas 11](URL_Tugas_11)  |
