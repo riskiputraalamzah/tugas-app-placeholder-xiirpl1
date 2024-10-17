@@ -30,8 +30,9 @@
 | 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
 | 24  | Nama Siswa 24       | [Belum/Menunggu/OK]| [Link Tugas 24](URL_Tugas_24)  |
 | 25  | Insan nur Rifqi       | OK | [Link Tugas 25](https://github.com/sanzgeming/app-jsonplaceholder)  |
-| 26  | Irvan Maulana I       | [Belum/Menunggu/OK]| [Link Tugas 26](https://github.com/IrvannnAseli/tugas-appJSONplaceholder)  |
-| 27  | Nama Siswa 27       | [Belum/Menunggu/OK]| [Link Tugas 27](URL_Tugas_27)  |
+
+| 26  | Irvan Maulana I       | OK| [Link Tugas 26](https://github.com/IrvannnAseli/tugas-appJSONplaceholder)  |
+| 27  | Kevin Radhinka N       | OK| [Link Tugas 27](https://github.com/KevinNatha/app-JsonPlaceholder)  |
 | 28  | Nama Siswa 28       | [Belum/Menunggu/OK]| [Link Tugas 28](URL_Tugas_28)  |
 | 29  | Nama Siswa 29       | [Belum/Menunggu/OK]| [Link Tugas 29](URL_Tugas_29)  |
 | 30  | Nama Siswa 30       | [Belum/Menunggu/OK]| [Link Tugas 30](URL_Tugas_30)  |
