@@ -19,7 +19,7 @@
 | 12  | Aufa Dwiash       | [Belum/Menunggu/OK]| [Link Tugas 12](https://github.com/AufaDwiash/app-jsonplaceholder)  |
 | 13  | Axel Pratama P.M.    | OK| [Link Tugas 13](https://github.com/AxelMardiyo/app-jsonplaceholder)  |
 | 14  | Nama Siswa 14       | [Belum/Menunggu/OK]| [Link Tugas 14](URL_Tugas_14)  |
-| 15  | Nama Siswa 15       | [Belum/Menunggu/OK]| [Link Tugas 15](URL_Tugas_15)  |
+| 15  | Bayu Adi Candra       | [Belum/Menunggu/OK]| [Link Tugas 15](https://github.com/kopienakk/app-JSON-Placeholder)  |
 | 16  | Nama Siswa 16       | [Belum/Menunggu/OK]| [Link Tugas 16](URL_Tugas_16)  |
 | 17  | Nama Siswa 17       | [Belum/Menunggu/OK]| [Link Tugas 17](URL_Tugas_17)  |
 | 18  | Nama Siswa 18       | [Belum/Menunggu/OK]| [Link Tugas 18](URL_Tugas_18)  |
