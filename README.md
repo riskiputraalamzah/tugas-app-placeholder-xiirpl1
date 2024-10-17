@@ -5,7 +5,6 @@
 
 | Absen  | Nama Siswa           | Status Pengumpulan | Link Pengumpulan                |
 | --- | -------------------- | ------------------ | ------------------------------- |
-
 | 1   | Ach. Danny K        | OK| [Link Tugas 1](https://github.com/UnsuitableFollower/fetch-jsonplaceholder-dom)    |
 | 2   | Achmad Fathoni        | OK| [Link Tugas 2](https://github.com/SkyHoldie/app-jsonplaceholder)    |
 | 3   | Nama Siswa 3        | [Belum/Menunggu/OK]| [Link Tugas 3](URL_Tugas_3)    |
@@ -31,12 +30,10 @@
 | 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
 | 24  | Idris Ariq Uzzaim       | [Belum/Menunggu/OK]| [Link Tugas 24](https://github.com/IdrisAriq123/app-placeholder)  |
 | 25  | Insan nur Rifqi       | OK | [Link Tugas 25](https://github.com/sanzgeming/app-jsonplaceholder)  |
-
 | 26  | Irvan Maulana I       | OK| [Link Tugas 26](https://github.com/IrvannnAseli/tugas-appJSONplaceholder)  |
 | 27  | Kevin Radhinka N       | OK| [Link Tugas 27](https://github.com/KevinNatha/app-JsonPlaceholder)  |
 | 28  | M. Ardi Fahriansyah       | OK| [Link Tugas 28](https://github.com/Ryn276/JSON-PLaceholder)  |
 | 29  | M.FIKRI ABDILLAH       | OK| [Link Tugas 29](https://github.com/fikryyyyyy/app-jsonplaceholder)  |
-
 | 30  | Nama Siswa 30       | [Belum/Menunggu/OK]| [Link Tugas 30](URL_Tugas_30)  |
 | 31  | Nama Siswa 31       | [Belum/Menunggu/OK]| [Link Tugas 31](URL_Tugas_31)  |
 
