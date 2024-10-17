@@ -28,7 +28,7 @@
 | 21  | Ferdyansyah N.S      | OK| [Link Tugas 21](https://github.com/ferdynursaputra/app-jsonPlaceholder)  |
 | 22  | Nama Siswa 22       | [Belum/Menunggu/OK]| [Link Tugas 22](URL_Tugas_22)  |
 | 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
-| 24  | Nama Siswa 24       | [Belum/Menunggu/OK]| [Link Tugas 24](URL_Tugas_24)  |
+| 24  | Idris Ariq Uzzaim       | [Belum/Menunggu/OK]| [Link Tugas 24](https://github.com/IdrisAriq123/app-placeholder)  |
 | 25  | Insan nur Rifqi       | OK | [Link Tugas 25](https://github.com/sanzgeming/app-jsonplaceholder)  |
 
 | 26  | Irvan Maulana I       | OK| [Link Tugas 26](https://github.com/IrvannnAseli/tugas-appJSONplaceholder)  |
