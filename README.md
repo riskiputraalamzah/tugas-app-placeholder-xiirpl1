@@ -8,7 +8,7 @@
 | 1   | Ach. Danny K        | OK| [Link Tugas 1](https://github.com/UnsuitableFollower/fetch-jsonplaceholder-dom)    |
 | 2   | Achmad Fathoni        | OK| [Link Tugas 2](https://github.com/SkyHoldie/app-jsonplaceholder)    |
 | 3   | Nama Siswa 3        | [Belum/Menunggu/OK]| [Link Tugas 3](URL_Tugas_3)    |
-| 4   | Nama Siswa 4        | [Belum/Menunggu/OK]| [Link Tugas 4](URL_Tugas_4)    |
+| 4   | raihan        | [Belum/Menunggu/OK]| [Link Tugas 4](https://github.com/Rehandapa/app-JSON-Placeholder)    |
 | 5   | Zidan Rafli        | [OK]| [Link Tugas 5](https://github.com/zidan05172/tugas-app-placeholder-xiirpl1)    |
 | 6   | Nama Siswa 6        | [Belum/Menunggu/OK]| [Link Tugas 6](URL_Tugas_6)    |
 | 7   | Nama Siswa 7        | [Belum/Menunggu/OK]| [Link Tugas 7](URL_Tugas_7)    |
