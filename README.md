@@ -35,7 +35,7 @@
 | 28  | M. Ardi Fahriansyah       | OK| [Link Tugas 28](https://github.com/Ryn276/JSON-PLaceholder)  |
 | 29  | M.FIKRI ABDILLAH       | OK| [Link Tugas 29](https://github.com/fikryyyyyy/app-jsonplaceholder)  |
 | 30  | Nama Siswa 30       | [Belum/Menunggu/OK]| [Link Tugas 30](URL_Tugas_30)  |
-| 31  | Nama Siswa 31       | [Belum/Menunggu/OK]| [Link Tugas 31](URL_Tugas_31)  |
+| 31  | Moch. Andika Syahrul       | [Belum/Menunggu/OK]| [Link Tugas 31]([URL_Tugas_3](https://github.com/AndikaSyahrul/app-JSON-Placeholder)1)  |
 
 > **Catatan**: Status Pengumpulan diperbarui sesuai dengan kondisi pengumpulan.
 
