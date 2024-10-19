@@ -27,7 +27,7 @@
 | 20  | Nama Siswa 20       | [Belum/Menunggu/OK]| [Link Tugas 20](URL_Tugas_20)  |
 | 21  | Ferdyansyah N.S      | OK| [Link Tugas 21](https://github.com/ferdynursaputra/app-jsonPlaceholder)  |
 | 22  | Firnanda abdee        | [Belum/Menunggu/OK]| [Link Tugas 22](https://github.com/kecapRACING/appJsonPlaceholder)  |
-| 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
+| 23  | Ibra Satya       | [Belum/Menunggu/OK]| [Link Tugas 23](https://github.com/ibraa23/app-jsonplaceholder)  |
 | 24  | Idris Ariq Uzzaim       | [Belum/Menunggu/OK]| [Link Tugas 24](https://github.com/IdrisAriq123/app-placeholder)  |
 | 25  | Insan nur Rifqi       | OK | [Link Tugas 25](https://github.com/sanzgeming/app-jsonplaceholder)  |
 | 26  | Irvan Maulana I       | OK| [Link Tugas 26](https://github.com/IrvannnAseli/tugas-appJSONplaceholder)  |
