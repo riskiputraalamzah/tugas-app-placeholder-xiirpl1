@@ -23,7 +23,7 @@
 | 16  | Nama Siswa 16       | [Belum/Menunggu/OK]| [Link Tugas 16](URL_Tugas_16)  |
 | 17  | Nama Siswa 17       | [Belum/Menunggu/OK]| [Link Tugas 17](URL_Tugas_17)  |
 | 18  | Danang febriyanto       | [Belum/Menunggu/OK]| [Link Tugas 18](https://github.com/VardanzZ/app-placeholder-js)  |
-| 19  | Nama Siswa 19       | [Belum/Menunggu/OK]| [Link Tugas 19](URL_Tugas_19)  |
+| 19  | Dava Cahya Saputra       | [OK]| [Link Tugas 19](https://github.com/DavaCahya/app-placeholder-XIIrpl1)  |
 | 20  | Nama Siswa 20       | [Belum/Menunggu/OK]| [Link Tugas 20](URL_Tugas_20)  |
 | 21  | Ferdyansyah N.S      | OK| [Link Tugas 21](https://github.com/ferdynursaputra/app-jsonPlaceholder)  |
 | 22  | Firnanda abdee        | [Belum/Menunggu/OK]| [Link Tugas 22](https://github.com/kecapRACING/appJsonPlaceholder)  |
